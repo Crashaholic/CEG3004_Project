@@ -1,0 +1,22 @@
+gdown==5.2.1
+numpy==2.0.2
+pandas==2.2.2
+pandas-datareader==0.10.0
+pandas-gbq==0.30.0
+pandas-stubs==2.2.2.240909
+soundfile==0.13.1
+scikit-learn==1.6.1
+scipy==1.16.3
+librosa==0.11.0
+tqdm==4.67.3
+ipython==7.34.0
+ipywidgets==7.7.1
+ipython-genutils==0.2.0
+ipython-sql==0.5.0
+matplotlib==3.10.0
+matplotlib-inline==0.2.1
+matplotlib-venn==1.1.2
+google==3.0.0
+google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
+
+# based on a pip freeze > requirements.txt in google colab and seeing which packages were actually used, might have mistakes
